@@ -1,2 +1,2 @@
 # app-BankID_Security
- BankID Security app for HarmonyOS and Oniro
+ BankID Security app for HarmonyOS and Oniro (Sweden) 
